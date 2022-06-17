@@ -1,0 +1,97 @@
+/* set font type */
+@import url(http://fonts.googleapis.com/css?family=Quattrocento+Sans|Quattrocento);
+/* body attributes */
+body {
+	background-color: #f0fcff;
+  margin: 80;
+}
+/* img attributes */
+img {
+  height:180;
+  width:180;
+  margin: 0 120 0px;
+}
+/* header attributes */
+header h1 {
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-size: 40px;
+	padding-top: 30px;
+	margin: 10 30 10 10px;
+  text-align: center;
+}
+header h1 a  {
+	text-decoration: none;
+	color: #2b5888;
+}
+/* header h3 attributes */
+header h3 {
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-size: 20px;
+	padding-top: 5px;
+	margin: 10 30 10 10px;
+  text-align: center;
+}
+header h3 {
+	text-decoration: none;
+	color: #38495c;
+}
+
+header h3 {
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-size: 20px;
+	padding-top: 5px;
+	margin: 10 30 10 10px;
+  text-align: center;
+}
+/* h2 attributes */
+h2 {
+	text-decoration: none;
+	color: #38495c;
+}
+
+h2 {
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-size: 20px;
+	padding-top: 5px;
+	margin: 10 30 10 10px;
+  text-align: center;
+}
+h2 {
+	text-decoration: none;
+	color: #38495c;
+}
+/* h4 attributes */
+h4 {
+	text-decoration: none;
+	color: #38495c;
+}
+
+h4 {
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-size: 15px;
+	padding-top: 5px;
+	margin: 0 0 0 0px;
+  text-align: center-left;
+}
+h4 {
+	text-decoration: none;
+	color: #38495c;
+}
+/* paragraph attributes */
+p {
+	text-decoration: none;
+	color: #38495c;
+}
+
+p {
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-size: 15px;
+	padding-top: 5px;
+	margin: 0 0 0 0px;
+  text-align: center-left;
+}
+p {
+	text-decoration: none;
+	color: #38495c;
+}
+
